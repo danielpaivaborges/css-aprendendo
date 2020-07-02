@@ -87,6 +87,7 @@ html {
   color: rgb(37,76,143);
   border-bottom: 1px solid rgb(200,200,200);
   margin-top: 25px;
+
 }
 .main h3 {
   color: rgb(241,47,6);
@@ -95,6 +96,7 @@ html {
   text-transform: uppercase;
   margin-top: 25px;
   margin-bottom: 10px;
+  border: 3px red ridge;
 }
 .main p {
   font-size: 1.8em;

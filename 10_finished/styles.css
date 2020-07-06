@@ -125,8 +125,8 @@ nav a:hover {
 }
 
 .logo {
-    -webkit-animation: logo 3s;
-    animation: logo 3s;
+    -webkit-animation: logo 1s;
+    animation: logo 1s;
 }
 
 

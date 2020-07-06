@@ -44,3 +44,12 @@ h1 {
 p {
 	margin-bottom: 25px;	
 }
+
+
+label {
+	float: left;
+	width: 20em;
+	vertical-align: top;
+	text-align: right;
+	margin-right: 15px;
+}

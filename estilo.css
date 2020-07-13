@@ -1,11 +1,14 @@
 
-@media (max-width: 480px){
-    .container {
-        background-image: linear-gradient(to right,yellow 0%,yellow 25%, white 25%, white 75%, green 75%, green 100%);
-    }
-}
+
 
 
 .container {
     background-image: linear-gradient(to left, red 0%, red 25%, white 25%, white 75%, green 75%, green 100%);
+}
+
+
+@media (max-width: 480px) {
+    .container {
+        background-image: linear-gradient(to right, yellow 0%, yellow 25%, white 25%, white 75%, green 75%, green 100%);
+    }
 }

@@ -1,15 +1,3 @@
-.sidebar p:first-of-type {
-    color:red;
-}
-
-.sidebar p:last-of-type{
-    color: green;
-}
-
-#formulario {
-    display: none;
-}
-
-#formulario:target{
-    display: block;
+.container {
+    background-image: linear-gradient(to left, red 0%, red 25%, white 25%, white 75%, green 75%, green 100%);
 }
